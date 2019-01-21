@@ -1,0 +1,46 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`BcTable renders table with 2 data columns 1`] = `
+<div>
+  <table class="text-left w-full bc-table" style="border-collapse: collapse;">
+    <thead>
+      <tr>
+        <!---->
+        <th class="table-header">
+          <div>
+            ID
+            <!---->
+          </div>
+        </th>
+        <th class="table-header">
+          <div>
+            Name
+            <!---->
+          </div>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!---->
+        <bctablecolumn-stub label="ID" field="ID" width="" visible="true" internal="true">
+          3471DA17-401F-9633-BF81-4CADA6FD5C79
+        </bctablecolumn-stub>
+        <bctablecolumn-stub label="Name" field="Name" width="" visible="true" internal="true">
+          Kyra Lester
+        </bctablecolumn-stub>
+      </tr>
+      <tr>
+        <!---->
+        <bctablecolumn-stub label="ID" field="ID" width="" visible="true" internal="true">
+          9F5C9912-936A-FB85-1EDB-9DA87BE7FF1E
+        </bctablecolumn-stub>
+        <bctablecolumn-stub label="Name" field="Name" width="" visible="true" internal="true">
+          Buckminster Alvarado
+        </bctablecolumn-stub>
+      </tr>
+    </tbody>
+  </table>
+  <!---->
+</div>
+`;

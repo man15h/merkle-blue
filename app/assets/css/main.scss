@@ -1,0 +1,16 @@
+@import 'notify.scss';
+@import 'icons.scss';
+
+body, html, *{
+  font-family: 'Source Sans Pro', sans-serif;
+  outline: none !important;
+}
+body{
+  background: #2c2f38;
+}
+a{
+  text-decoration: unset;
+}
+input[type="button"]{
+    outline:none;
+}
